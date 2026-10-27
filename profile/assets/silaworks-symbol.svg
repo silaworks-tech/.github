@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="title description">
+  <title id="title">Silaworks abstract interlocking S symbol</title>
+  <desc id="description">A geometric symbol made from interlocking cobalt blue and slate-graphite ribbons, separated by uniform transparent gaps and optimized for visibility on dark backgrounds.</desc>
+  <path fill="#245AC0" d="
+    M 629,124
+    C 642,124 654,128 669,136
+    L 1058,360
+    C 1077,371 1088,391 1088,413
+    L 1088,555
+    C 1088,569 1075,575 1062,569
+    L 651,329
+    C 633,317 621,315 608,322
+    L 343,475
+    C 329,483 327,501 341,513
+    L 735,748
+    C 747,755 748,766 736,775
+    L 608,851
+    C 595,858 585,859 573,851
+    L 202,620
+    C 177,605 165,581 165,553
+    L 165,417
+    C 165,389 181,370 202,357
+    L 589,134
+    C 603,126 617,124 629,124 Z"/>
+  <path fill="#343C42" d="
+    M 631,407
+    C 641,405 653,409 668,418
+    L 1062,652
+    C 1079,662 1088,683 1088,707
+    L 1088,832
+    C 1088,861 1077,881 1051,896
+    L 655,1119
+    C 638,1129 620,1134 602,1131
+    C 586,1129 573,1122 558,1114
+    L 204,900
+    C 178,884 165,863 165,834
+    L 165,700
+    C 165,687 177,681 189,688
+    L 595,938
+    C 607,946 620,943 633,936
+    L 888,784
+    C 904,775 904,761 889,751
+    L 489,502
+    C 477,495 484,483 497,476
+    L 619,410
+    C 623,408 627,407 631,407 Z"/>
+</svg>
